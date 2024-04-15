@@ -60,7 +60,7 @@ const SignInPage = () => {
             Don’t have an account?
             <span> </span>
             <a href="/" className="text-[#fb904b]">
-              Sign Up
+              Sign In
             </a>
           </p>
         </footer>
